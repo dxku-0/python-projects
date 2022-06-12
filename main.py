@@ -138,7 +138,7 @@ def start():
     welcome = '''\nSTUDENT MANAGEMENT SYSTEM
     1. Display Student Data
     2. Add New Student Data
-    3. Updata Student Data
+    3. Update Student Data
     4. Remove Student Data
     5. Exit\n'''
     print(welcome)
