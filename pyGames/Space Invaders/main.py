@@ -5,7 +5,7 @@
 
 import pygame
 import os 
-import time
+# import time
 import random
 from pygame.locals import *
 
