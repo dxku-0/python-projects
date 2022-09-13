@@ -1,5 +1,3 @@
-# credit - joseph
-
 import pickle
 
 
